@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kuntala Chakraborty from Eindhoven, Netherlands.
 - 👀 Experienced in Business Intelligence and Data Analytics. 
-- 🌱 I’m currently learning Data Science and Machine Learning.
+- 🌱 I’m an aspiring Data Scientist.
 
 
 <!---
